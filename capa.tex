@@ -1,0 +1,62 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+% seletor de cores RGB: http://latexcolor.com/
+\definecolor{titlepagecolor}{rgb}{0.95,0.95,0.95}
+\definecolor{namecolor}{cmyk}{7,2.0,1,0}
+%-----------------------------------------------------------------
+\begin{document}
+	% ----------------------------------------------------------------
+	\begin{titlepage}
+		\newgeometry{left=7.5cm} %defines the geometry for the titlepage
+		\pagecolor{titlepagecolor}
+		\noindent
+		\includegraphics[width=3cm]{img/logo_ufabc.png}\\[-1em]
+		\color{black}
+		\makebox[0pt][l]{\rule{1.3\textwidth}{1pt}}
+		\color{gray}
+		\par
+		\noindent
+		\textcolor{namecolor}{\textsf{Universidade Federal do}} \textbf{\textsf{ABC}}
+		\vfill
+		\noindent
+		\color{black}
+		{\huge \textsf{PH1360: Política Urbana}}
+		\vskip\baselineskip
+		\noindent
+		\textbf{\textsf{Relatório \& Diagnóstico}} \\
+		\textbf{\textsf{Versão Final}} \\
+		\\
+		\textsf{Professoras Dras. Guadalupe Maria Jungers Abib de Almeida e Carolina Maria Pozzi de Castro} \\
+		\vfill
+		\noindent
+		\textbf{{\textsf{Anderson R. Pereira}}}
+		\vspace{2pt} \\
+		\textsf{RA 11096215}
+		\vspace{1pt} \\
+		\textbf{{\textsf{Caio César C. Ortega}}}
+		\vspace{2pt} \\
+		\textsf{RA 21038515}
+		\vspace{1pt} \\
+		\textbf{{\textsf{Henrique Mateus N. de Lima}}}
+		\vspace{2pt} \\
+		\textsf{RA 11039812}
+		\vspace{1pt} \\
+		\textbf{{\textsf{Jade Vieira Cavalhieri}}}
+		\vspace{2pt} \\
+		\textsf{RA 21023215}
+		\vspace{1pt} \\
+		\textbf{{\textsf{Noele de Araújo Falcão}}}
+		\vspace{2pt} \\
+		\textsf{RA 11080913} 
+		\vspace{1pt}
+		
+	\end{titlepage}
+	\restoregeometry % restores the geometry
+	\nopagecolor% Use this to restore the color pages to white
+	% ----------------------------------------------------------------
+\end{document}
