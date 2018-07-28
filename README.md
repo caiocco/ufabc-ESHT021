@@ -34,9 +34,9 @@ FONTES:
 * [Fundação Seade/Perfil Municipal](http://produtos.seade.gov.br/produtos/perfil/)
 * [IBGE/Cidades@](http://cidades.ibge.gov.br/xtras/uf.php?lang=&coduf=35&search=sao-paulo)
 * [IBGE/MUNIC Perfil dos Municípios 2013](http://www.ibge.gov.br/home/estatistica/economia/perfilmunic/2013/)
-- [IBGE/Gestão do Território 2014](http://ibge.gov.br/home/geociencias/geografia/redes_fluxos/gestao_do_territorio_2014/default.shtm)
-- [Agencia Metropolitana da Baixada Santista (AGEM)](http://www.agem.sp.gov.br/)
-- Site da Prefeitura Municipal. Consulta aos órgãos Municipais de planejamento
+* [IBGE/Gestão do Território 2014](http://ibge.gov.br/home/geociencias/geografia/redes_fluxos/gestao_do_territorio_2014/default.shtm)
+* [Agencia Metropolitana da Baixada Santista (AGEM)](http://www.agem.sp.gov.br/)
+* Site da Prefeitura Municipal. Consulta aos órgãos Municipais de planejamento
 
 #### 1.2. Ambiente urbano
 
@@ -58,15 +58,15 @@ de conservação e tipo de proteção legal.
 
 FONTES:
 
-- Informações e dados municipais coletados e consultar sites:
-- [EMPLASA](http://www.emplasa.sp.gov.br/emplasa/cartografia/SigPlan.asp)
-- [Mapeamento do uso e ocupação do solo (real) na escala 1:25.000 em formato
+* Informações e dados municipais coletados e consultar sites:
+* [EMPLASA](http://www.emplasa.sp.gov.br/emplasa/cartografia/SigPlan.asp)
+* [Mapeamento do uso e ocupação do solo (real) na escala 1:25.000 em formato
 DWG](http://www.uitgeo.sp.gov.br/)
-- [Unidades de informações Territorializadas (UITsGEO); dados intramunicipais
+* [Unidades de informações Territorializadas (UITsGEO); dados intramunicipais
 para unidades com mais ou menos 31.000 domicilios, compreendendo uso do
 solo, zonas de origem e destino, informações ambientais, equipamentos sociais
 e infraestrutura](http://www.mapeiasp.sp.gov.br/Login?redirect=http://www.mapeiasp.sp.gov.br/)
-- [IBGE – Censo 2010 Aglomerados subnormais](http://www.ibge.gov.br/home/estatistica/populacao/censo2010/aglomerados_subnormais/default_aglomerados_subnormais.shtm)
+* [IBGE – Censo 2010 Aglomerados subnormais](http://www.ibge.gov.br/home/estatistica/populacao/censo2010/aglomerados_subnormais/default_aglomerados_subnormais.shtm)
 
 #### 1.3. Sistema de Mobilidade
 
