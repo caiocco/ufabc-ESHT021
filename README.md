@@ -34,8 +34,7 @@ FONTES:
 * [Fundação Seade/Perfil Municipal](http://produtos.seade.gov.br/produtos/perfil/)
 * [IBGE/Cidades@](http://cidades.ibge.gov.br/xtras/uf.php?lang=&coduf=35&search=sao-paulo)
 * [IBGE/MUNIC Perfil dos Municípios 2013](http://www.ibge.gov.br/home/estatistica/economia/perfilmunic/2013/)
-- [IBGE/Gestão do Território 2014](http://ibge.gov.br/home/geociencias/geografia/redes_fluxos/gestao_do_territorio
-_2014/default.shtm)
+- [IBGE/Gestão do Território 2014](http://ibge.gov.br/home/geociencias/geografia/redes_fluxos/gestao_do_territorio_2014/default.shtm)
 - [Agencia Metropolitana da Baixada Santista (AGEM)](http://www.agem.sp.gov.br/)
 - Site da Prefeitura Municipal. Consulta aos órgãos Municipais de planejamento
 
